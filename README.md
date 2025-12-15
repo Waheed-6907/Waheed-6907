@@ -11,5 +11,5 @@ Hi, I'm Waheed Mujtaba 👋
 - Database & Backend Concepts
 
 📫 Connect with me:
-- LinkedIn: <your-link>
-- Email: <professional-email>
+- LinkedIn: <https://www.linkedin.com/in/waheed-mujtaba/>
+- Email: <gulamwaheedmujtaba@gmail.com>
